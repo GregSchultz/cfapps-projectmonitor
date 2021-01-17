@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ## upgrade : http://railsdiff.org/4.2.6/6.0.3.4
 
 # ruby '~> 2.3.1'
-ruby '2.5.0'
+ruby '2.7.1'
 
 gem 'acts-as-taggable-on'
 gem 'airbrake', '~> 4.3.8'
